@@ -39,3 +39,6 @@ cd web_scraping
 ```bash
 python web_scraping.py
 ```
+
+
+Web scraping estudado utilizando: https://medium.com/@abdelfatahmennoun4
